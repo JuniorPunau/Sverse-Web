@@ -1,6 +1,6 @@
 package sverseweb
 
-class Nota {
+class Nota{
 
     String titulo
     String texto
